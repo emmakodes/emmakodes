@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Emmanuel. A Machine learning engineer, I am keen on using my skills in programming to add value to humanity.
 
+Python | Django | Data Science | Machine Learning | Deep Learning | React
 
 - 🌱 I’m currently mastering machine learning engineering and deep learning as applied to computer vision ...
 - 👯 I’m looking to collaborate on projects relating to Data Science, machine learning engineering, deep learning, computer vision
