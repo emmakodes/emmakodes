@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Emmanuel. A Software Develoer, I am keen on using my skills in programming to add value to humanity.
+I am Emmanuel. A Software Developer, I am keen on using my skills in programming to add value to humanity.
 
 Python | Javascript | Cloud | Django | React | Machine Learning Based Application
 
