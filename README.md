@@ -9,3 +9,5 @@ Python | Javascript | Cloud | Django | React | Machine Learning Based Applicatio
 - 📫 How to reach me: https://twitter.com/emmakodes  https://linkedin.com/in/emmanuelonwuegbusi
 - ⚡ Fun fact: I love love
 - See My Writings on https://medium.com/@emmakodes
+- Generated Music using Artificial Intelligence https://zindi.africa/learn/meet-the-winners-of-the-ai-art-challenge
+- Error Detection: https://zindi.africa/learn/meet-the-winners-of-the-sea-turtle-rescue-error-detection-challenge
