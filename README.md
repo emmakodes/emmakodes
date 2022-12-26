@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Emmanuel. A Creative Software Engineer. I combine my knowledge of software and data science to build data driven products that can solve problems.
+I am Emmanuel. A Creative Software Engineer. I combine my knowledge of software engineering and data science to build data driven products that can solve problems.
 I am very keen on using my skills in programming to add value to humanity.
 
 Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
