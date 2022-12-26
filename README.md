@@ -4,7 +4,7 @@ I am very keen on using my skills in programming to add value to humanity.
 
 Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
 
-- 🌱 I’m currently working on building machine learning based applications ...
+- 🌱 I’m currently working on building Software Applications powered with machine learning ...
 - 👯 I’m looking to collaborate on projects relating to Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
 - 💬 Ask me about Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
 - 📫 How to reach me: https://twitter.com/emmakodes  https://linkedin.com/in/emmanuelonwuegbusi/
