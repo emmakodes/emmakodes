@@ -9,6 +9,6 @@ Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Bas
 - 💬 Ask me about Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
 - 📫 How to reach me: https://twitter.com/emmakodes  https://linkedin.com/in/emmanuelonwuegbusi/
 - ⚡ Fun fact: I love love
-- See My Writings on [Hashnode](https://www.emmakodes.com)     [Medium](https://medium.com/@emmakodes)
+- See My Writings on [Hashnode](https://hashnode.com/@emmakodes)     [Medium](https://medium.com/@emmakodes)
 - Generated Music using Artificial Intelligence https://zindi.africa/learn/meet-the-winners-of-the-ai-art-challenge
 - Error Detection: https://zindi.africa/learn/meet-the-winners-of-the-sea-turtle-rescue-error-detection-challenge
