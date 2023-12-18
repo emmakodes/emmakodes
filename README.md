@@ -6,7 +6,7 @@ Python | Reflex | Javascript | Cloud | Django | React | Typescript | Machine Lea
 
 - 🌱 I’m currently working on building Software Applications powered with machine learning ...
 - 👯 I’m looking to collaborate on projects relating to Python | Reflex | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
-- 💬 Ask me about Python | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
+- 💬 Ask me about Python | Reflex | Javascript | Cloud | Django | React | Typescript | Machine Learning Based Application
 - 📫 How to reach me: https://twitter.com/emmakodes  https://linkedin.com/in/emmanuelonwuegbusi/
 - ⚡ Fun fact: I love love
 - See My Writings on [Hashnode](https://hashnode.com/@emmakodes)     [Medium](https://medium.com/@emmakodes)  [Dev.to](https://dev.to/emmakodes_)
