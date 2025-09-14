@@ -14,7 +14,10 @@ Python | Reflex | Javascript | Cloud | Django | React | Typescript | Machine Lea
 - Error Detection: https://zindi.africa/learn/meet-the-winners-of-the-sea-turtle-rescue-error-detection-challenge
 
 Some of my blogs:
+- [Build a Talk-to-your-data chatbot using openai LLM, LangChain, and Streamlit](https://dev.to/emmakodes_/how-to-build-a-talk-to-your-data-chatbot-using-openai-llm-langchain-and-streamlit-27po)
 - [Build an OCR app using fullstack Python Framework Reflex](https://dev.to/emmakodes_/build-an-ocr-app-using-fullstack-python-framework-reflex-4ao7)
+- [Build Your Own AI Agent that Can Browse the Web and Take Actions 🤖](https://dev.to/emmakodes_/build-your-own-ai-agent-that-can-browse-the-web-and-take-actions-ogo)
+- [Build Your Own Podcast Producer AI Agent🎙️](https://dev.to/emmakodes_/build-your-own-podcast-producer-agent-using-supercog-agentic-framework-3njc)
 - [Build a Text Summarization app using Reflex (Pure Python)](https://dev.to/emmakodes_/build-a-text-summarization-app-using-reflex-pure-python-1a94)
 - [Build a Talk-to-your-data chatbot using openai LLM, LangChain, and Streamlit](https://dev.to/emmakodes_/how-to-build-a-talk-to-your-data-chatbot-using-openai-llm-langchain-and-streamlit-27po)
 - [Build your own toxic comment detector API](https://dev.to/emmakodes_/build-your-own-toxic-comment-detector-api-2fe5)
